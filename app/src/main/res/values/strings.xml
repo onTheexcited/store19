@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">store19</string>
+    <string name="write">写操作</string>
+    <string name="read">读操作</string>
+</resources>
